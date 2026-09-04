@@ -1,4 +1,4 @@
-# Star Tracking program
+# Star Guiding program
 My high school graduation project from 2018 tackles one of the major astrophotography problems: star-tracking. When taking long exposures of the night sky, the stars leave a trail behind them because the Earth is constantly rotating, this is solved using a tracking mount and a small guiding camera that tracks the stars to finely correct the movement. I wrote a Python program that tracks the stars and minimizes the star elongation in long exposure photography. I also included [the thesis](https://github.com/PetarBabic/Star-Tracking-program/blob/f044b4efa4391ce307fae42533f43abbaafb36a9/Zavrsni.pdf) I wrote, but unfortunately, it's only available in Croatian.
 
 ## GUI
